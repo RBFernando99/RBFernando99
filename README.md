@@ -7,15 +7,15 @@ Welcome to my GitHub repository. This is where I share my projects and open-sour
 Hi! I'm Fernando, a 24-year-old Computer Engineer with a passion for technology, specialized as SAP consultant with experience in multiple sectors of Computer Engineering. Nice to meet you!
 
 - 💼 Currently working at [Deloitte](https://www.deloitte.com/)
-- 📚 Specialized in SAP technologies such as BTP, S/4HANA and ABAP
+- 📚 Specialized in SAP technologies such as S/4HANA, BTP and ABAP
 - 👨‍💻 Experienced in backend development
 
 ## Experience
 
 Here are some of the technologies I'm familiar with:
 
-[![BTP](https://img.shields.io/badge/CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 [![S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
+[![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 [![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
