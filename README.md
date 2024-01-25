@@ -4,19 +4,21 @@ Welcome to my GitHub repository. This is where I share my projects and open-sour
 
 ## About Me
 
-Hi! I'm Fernando, a 24-year-old Computer Engineer with a passion for technology, specialized as SAP consultant with experience in multiple sectors of Computer Engineering. Nice to meet you!
+I am Fernando, a 24-year-old Computer Engineer passionate about technology, specializing as an SAP Consultant. My experience spans multiple sectors in Computer Engineering.
 
 - 💼 Currently working at [Deloitte](https://www.deloitte.com/)
-- 📚 Specialized in SAP technologies such as S/4HANA, BTP and ABAP
-- 👨‍💻 Experienced in backend development
+- 📚 Specialized in SAP technologies.
+- 👨‍💻 Experienced in Backend Development
 
 ## Experience
 
 Here are some of the technologies I'm familiar with:
 
-[![S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
-[![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
-[![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/)
+[![BTP](https://img.shields.io/badge/BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/what-is-sap-business-technology-platform.html)
+[![S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/erp/s4hana.html)
+[![HANA](https://img.shields.io/badge/HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/hana/what-is-sap-hana.html)
+[![CAP](https://img.shields.io/badge/CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://cap.cloud.sap/docs/)
+[![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/abap.html)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
