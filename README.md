@@ -4,7 +4,11 @@ Welcome to my GitHub repository. This is where I share my projects and open-sour
 
 ## About Me
 
-I am Fernando, a 24-year-old Computer Engineer passionate about technology, specializing as an SAP Consultant. My experience spans multiple sectors in Computer Engineering.
+As a Computer Engineer, I've been always fascinated by the transformative potential of technology and its ability to change lives and revolutionize businesses.
+
+I consider myself as someone deeply dedicated to hard work and commitment. These values are crucial not just in achieving personal success, but in contributing to larger team goals and organizational objectives.
+
+My mission is to help people meet their business requirements by designing and implementing tailored solutions that address their specific needs and challenges.
 
 - 💼 Currently working at [Deloitte](https://www.deloitte.com/)
 - 📚 Specialized in SAP technologies.
