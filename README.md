@@ -1,6 +1,6 @@
 # Hello, I'm Fernando
 
-Welcome to my GitHub repository. This is where I share my projects and open-source collaborations.
+Welcome to my GitHub profile. This is where I share my projects and open-source collaborations.
 
 ## About Me
 
