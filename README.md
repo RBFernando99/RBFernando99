@@ -18,7 +18,7 @@ My mission is to help people meet their business requirements by designing and i
 
 Here are some of the technologies I'm familiar with:
 
-[![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/what-is-sap-business-technology-platform.html)
+[![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform.html)
 [![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/erp/s4hana.html)
 
 [![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/developer-tools.html)
