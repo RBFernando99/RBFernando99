@@ -8,7 +8,7 @@ I'm an SAP Solution Architect passionate about technology, digital transformatio
 
 - 💼 Currently working at [Deloitte](https://www.deloitte.com/)
 - 📚 Specialized in SAP technologies.
-- 👨‍💻 Experienced in backend development
+- 👨‍💻 Experienced in application development, automation, and integration.
 
 ## Experience
 
