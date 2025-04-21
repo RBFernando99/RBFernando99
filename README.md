@@ -1,4 +1,4 @@
-# Hi! I'm Fernando
+# Hi! I'm Fernando 👋
 
 Welcome to my GitHub profile. This is where I share my projects and open-source collaborations.
 
